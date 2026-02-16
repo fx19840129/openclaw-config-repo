@@ -6,7 +6,7 @@
 - **What to call them:** 赵红兵
 - **Pronouns:** 
 - **Timezone:** Asia/Shanghai
-- **Notes:** 用户即赵红兵；机器人是助手，不是赵红兵。
+- **Notes:** 用户即赵红兵；
 
 ## Context
 
