@@ -41,7 +41,7 @@ Before doing anything else:
 
 **Special Condition:**
 - If a task involves collaborating with `coding-agent` (Claude Code), immediately read `docs/skills_guides/CLAUDE_CODE_USAGE_GUIDE.md` to ensure adherence to established collaboration protocols.
-- 开发任务的执行闭环与各阶段要求见 MEMORY「开发工作闭环」。
+- 开发任务的执行闭环与各阶段要求见 MEMORY「开发工作闭环」；测试阶段（从日志定位错误、不足则通过需求让 Claude Code 加日志再测、再提修复需求）见 MEMORY「测试工作闭环」与 CLAUDE_CODE_USAGE_GUIDE「测试阶段的协作」。
 
 Don't ask permission. Just do it.
 
